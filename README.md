@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm exp0</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exp0420&label=Profile%20views&color=0e75b6&style=flat" alt="exp0420" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=exp0420" alt="exp0420" /></a> </p>
-
 - 🌱 I’m currently learning **Cisco networking, C programming, assembly**
 
 - 💬 Ask me about **Crypto lol**
