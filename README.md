@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **Cisco networking, C programming, assembly**
 
-- 💬 Ask me about **Crypto lol**
+- 👩‍💻 Interested in : **crypto, coding, hacking, psychology**
 
 - 💬 Pronouns : **he/him**
 
-- 📫 How to reach me : **exp0#0001**
+- 🦈 How to reach me : **exp0#0001**
+
+- ✨ Fun facts : **Cats > Dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
