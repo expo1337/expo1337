@@ -9,7 +9,7 @@
 
 - 🦈 How to reach me : **exp0#0001**
 
-- ✨ Fun facts : **Cats > Dogs**
+- ✨ Fun fact : **Denial of service isn't hacking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
