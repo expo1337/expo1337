@@ -5,7 +5,7 @@
 
 - 👩‍💻 Interested in : **crypto, coding, hacking, psychology**
 
-- 💬 Pronouns : **they/them**
+- 💬 Pronouns : **he/him**
 
 - 🦈 How to reach me : **exp0#0001**
 
