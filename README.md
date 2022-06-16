@@ -7,7 +7,7 @@
 
 - 💬 Pronouns : **he/him**
 
-- 🦈 How to reach me : **exp0#0001**
+- 🦈 How to reach me : **exp0#1337**
 
 - ✨ Fun fact : **Denial of service isn't hacking**
 
