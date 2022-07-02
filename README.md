@@ -22,7 +22,7 @@
   <summary>Languages</summary>
 
   ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-  ![c](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
+  ![c](https://img.shields.io/badge/The_Holy_C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
   ![cpp](https://img.shields.io/badge/C++-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
   ![bash](https://img.shields.io/badge/GNU_Bash-47A141?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
