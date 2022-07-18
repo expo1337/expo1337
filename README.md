@@ -8,6 +8,12 @@
 ![vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white)
 ![thinkpad](https://img.shields.io/badge/Thinkpad_T480s-EE2624?style=for-the-badge&logo=Lenovo&logoColor=white)
 
+## Interests
+- Cybersecurity
+- Ethical hacking
+- Crypto
+- Psychology
+
 ## General information
 
 <details>
