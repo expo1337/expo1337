@@ -9,13 +9,11 @@
 ![thinkpad](https://img.shields.io/badge/Thinkpad_T480s-EE2624?style=for-the-badge&logo=Lenovo&logoColor=white)
 
 ## Interests
-- Cybersecurity
-- Ethical hacking
-- Crypto
-- Psychology
-- Networking
-- Programming
-- Freesoftware
+##### Cybersecurity / Pentesting
+##### Gamehacking
+##### Crypto
+##### Networking
+##### Programming
 
 ## General information
 
@@ -48,27 +46,7 @@
   ![tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)
 </details>
 
-## My setup:
-Main desktop:
-- CPU: Intel Core i5-8600k
-- GPU0: Intel UHD 630 (mainOS)
-- GPU1: RTX 2070 (vfio passthrough)
-- RAM: 16gb DDR4 3600mhz
-- SSD0: 512gb M.2 NVMe
-- SSD1: 128gb SATA SSD
-- HDD: 2TB HDD
-- OS: Arch Linux
-- VMs: Windows 10, BlackArch, Gentoo
-
-Laptop:
-- MODEL: Lenovo Thinkpad T480s
-- CPU: Intel Core i7-8550u
-- GPU: Intel UHD 620
-- RAM: 24gb DDR4
-- SSD: Samsung EVO 512gb
-- OS: Gentoo Linux
-
-## My stats:
+## Stats:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=expo1337&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expo1337&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
